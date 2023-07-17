@@ -7,17 +7,12 @@
     
 </head>
 <body>
-    <h1><strong> Wybierz interesujący cię gatunek ryby:</strong></h1>
+    <h1><strong> Wybierz interesujący cię typ ryb:</strong></h1>
 
     <nav>
   <ul class="menu">
-    <li><a href="#">Szczupak</a></li> 
-    <li><a href="#">Sandacz</a></li>
-    <li><a href="#">Okoń</a></li>
-    <li><a href="#">Karaś</a></li>
-    <li><a href="#">Leszcz</a></li> 
-    <li><a href="#">Płoć</a></li>
-    <li><a href="#">Sum</a></li>
+    <li><a href="drapiezne.php">Ryby Drapieżne</a></li> 
+    <li><a href="roslinozerne.php">Ryby Roślinożerne</a></li>
   </ul> 
 </nav>
 
